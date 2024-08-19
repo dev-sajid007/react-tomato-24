@@ -1,4 +1,4 @@
-# 🍔 Food Delivery App
+# 🍔 Tomato App
 
 Welcome to the **Food Delivery App**, your one-stop solution for ordering delicious meals from your favorite restaurants, delivered straight to your door!
 
