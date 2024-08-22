@@ -4,7 +4,7 @@ import axios from 'axios';
 const StoreContextProvider = ({ children }) => {
 
     const [cartItems, setCartItems] = useState({});
-    const url = "http://localhost:4000";
+    const url = "https://react-tomato-backend.onrender.com";
     const [token,setToken] = useState("");
     const [food_list,setFoodList] = useState([]);
 
